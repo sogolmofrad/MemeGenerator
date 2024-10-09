@@ -4,4 +4,9 @@
 
 html {
   font-size: 62.5%;
+  font-family: "Raleway", sans-serif;
+}
+
+input {
+  font-size: 1.6rem !important;
 }
