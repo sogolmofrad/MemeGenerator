@@ -5,7 +5,7 @@ function Form({
   setBottomSentence,
 }) {
   return (
-    <form className="flex flex-col gap-[2rem] justify-between items-center  mt-[5rem]">
+    <form className="w-[70%] flex flex-col gap-[1.5rem] justify-between items-center  mt-[3rem]">
       <input
         type="text"
         value={topSentence}
