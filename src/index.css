@@ -10,3 +10,7 @@ html {
 input {
   font-size: 1.6rem !important;
 }
+
+.homeBtn {
+  transition: all 0.5s;
+}
